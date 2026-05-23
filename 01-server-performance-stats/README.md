@@ -2,7 +2,7 @@
 
 This project contains a Bash script named `server-stats.sh` that displays basic performance information for a Linux server.
 
-Project URL: https://github.com/jaydenhoang5291/roadmap-sh-devops-projects/tree/main/01-server-performance-stats
+Project URL: https://roadmap.sh/projects/server-stats
 
 ## Requirements
 
