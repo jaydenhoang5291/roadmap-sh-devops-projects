@@ -2,6 +2,8 @@
 
 This project builds a small CLI tool that archives a log directory into a `.tar.gz` file and records when the archive was created.
 
+Project URL: https://roadmap.sh/projects/server-stats
+
 ## Requirement
 
 The tool should run like this:
