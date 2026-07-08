@@ -2,6 +2,8 @@ Project 1 URL: https://roadmap.sh/projects/server-stats
 
 Project 2 URL: https://roadmap.sh/projects/log-archive-tool
 
+Project 3 URL: https://roadmap.sh/projects/nginx-log-analyser
+
 Project 4 URL: https://roadmap.sh/projects/github-actions-deployment-workflow
 
 Project 5 URL: https://roadmap.sh/projects/ssh-remote-server-setup
